@@ -1,6 +1,6 @@
 <?php
 /**
- * Auto Load Next Post ompatibility File
+ * Auto Load Next Post compatibility File
  * See https://wordpress.org/plugins/auto-load-next-post/
  *
  * @package CoBlocks
